@@ -20,3 +20,10 @@ p a:hover{
     margin: 0%;
     font-size: x-small;
 }
+th{
+    color: white;
+    background-color: rgb(25, 25, 213);
+}
+.table-background{
+    background-color: rgb(99, 119, 218);
+}
