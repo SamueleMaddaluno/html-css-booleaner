@@ -3,6 +3,11 @@ header{
     padding: 15px 15px 15px 0px;
 }
 header img{
-    width: 90px;
-    
+    width: 90px; 
+}
+p a:hover{
+    color: crimson;
+}
+.main-title{
+    margin: 0%;
 }
