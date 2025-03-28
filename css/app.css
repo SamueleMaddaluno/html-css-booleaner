@@ -9,5 +9,14 @@ p a:hover{
     color: crimson;
 }
 .main-title{
+    margin: 0px 0px 0px 0px ;
+}
+.tim-img{
+    width: 400px;
+    height: 300px;
+    
+}
+.photographer{
     margin: 0%;
+    font-size: x-small;
 }
