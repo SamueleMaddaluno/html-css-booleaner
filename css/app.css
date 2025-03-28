@@ -30,11 +30,13 @@ th{
 .cell-size{
     width:33%;
     height:10%;
-}
-footer{
-    background-color: rgb(19, 19, 140);
+
 }
 #final-part{
     color: white;
     text-align: center;
+    background-color: blue;
+    padding: 25px; 
+   margin-bottom: 0px;
+    font-size: small;
 }
