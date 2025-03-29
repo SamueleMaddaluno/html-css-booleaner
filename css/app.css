@@ -4,13 +4,15 @@ body{
 
 header{
     background-color: rgb(73, 170, 235);
-    padding: 15px 15px 15px 0px;
+   background-image: url(../img/pattern.png);
+   background-size: 20%;
+   padding: 15px 15px 15px 0px;
 }
 header img{
     width: 90px; 
 }
 div{
-    margin: 0px 0px 0px 3px;
+    margin: 0px 0px 0px 200px;
 }
 p a:hover{
     color: crimson;
