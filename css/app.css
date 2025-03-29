@@ -1,9 +1,16 @@
+body{
+    margin: 0%;
+}
+
 header{
     background-color: rgb(73, 170, 235);
     padding: 15px 15px 15px 0px;
 }
 header img{
     width: 90px; 
+}
+div{
+    margin: 0px 0px 0px 3px;
 }
 p a:hover{
     color: crimson;
@@ -19,6 +26,9 @@ p a:hover{
 .photographer{
     margin: 0%;
     font-size: x-small;
+}
+ul{
+    padding: 1%;
 }
 th{
     color: white;
